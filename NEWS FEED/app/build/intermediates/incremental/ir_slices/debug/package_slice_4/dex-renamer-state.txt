@@ -1,0 +1,4 @@
+#Mon Dec 31 12:02:31 NPT 2018
+base.0=/Users/bibek/Desktop/Flym-master/app/build/intermediates/transforms/dexMerger/debug/4
+path.0=classes.dex
+renamed.0=classes.dex

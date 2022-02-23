@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bibek/Desktop/Flym-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w376dp-v13/values-w376dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/bibek/Desktop/Flym-master/app/src/main/res/values-w376dp/dimens.xml",
+                    "from": {
+                        "startLines": "6,5,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "182,135,85",
+                        "endColumns": "47,46,48",
+                        "endOffsets": "225,177,129"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,103,150",
+                        "endColumns": "47,46,48",
+                        "endOffsets": "98,145,194"
+                    }
+                }
+            ]
+        }
+    ]
+}

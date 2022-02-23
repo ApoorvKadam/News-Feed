@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="settings_font_sizes">
+        <item>-2</item>
+        <item>-1</item>
+        <item>Normaali</item>
+        <item>+1</item>
+        <item>+2</item>
+        <item>+3</item>
+    </string-array>
+    <string-array name="settings_intervals">
+        <item>5 minuuttia</item>
+        <item>15 minuuttia</item>
+        <item>30 minuuuttia</item>
+        <item>1 tunti</item>
+        <item>2 tuntia</item>
+        <item>6 tuntia</item>
+        <item>12 tuntia</item>
+        <item>1 päivä</item>
+    </string-array>
+    <string-array name="settings_keep_times">
+        <item>1 päivä</item>
+        <item>2 päivää</item>
+        <item>4 päivää</item>
+        <item>1 viikko</item>
+        <item>2 viikkoa</item>
+        <item>1 kuukausi</item>
+        <item>2 kuukautta</item>
+        <item>3 kuukautta</item>
+        <item>Ikuisesti</item>
+    </string-array>
+    <string-array name="settings_preload_image_modes">
+        <item>Ei koskaan</item>
+        <item>Vain Wi-Fi -yhteyden kautta</item>
+        <item>Aina</item>
+    </string-array>
+    <plurals name="number_of_new_entries">
+        <item quantity="one">Yksi uusi artikkeli</item>
+        <item quantity="other">%d uutta artikkelia</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Siirry etusivulle"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Siirry ylös"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Lisää"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Valmis"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Näytä kaikki"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Valitse sovellus"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"POIS KÄYTÖSTÄ"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"KÄYTÖSSÄ"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Haku…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Tyhjennä kysely"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Hakulauseke"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Haku"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Lähetä kysely"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Puhehaku"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Jaa sovelluksessa <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
+    <string name="about_flym">Tietoja Flymista</string>
+    <string name="add_group_title">Uusi ryhmä</string>
+    <string name="all">All</string>
+    <string name="all_entries">Kaikki </string>
+    <string name="app_name">Flym</string>
+    <string name="cannot_find_feeds">No feeds has been found</string>
+    <string name="cant_open_link">Linkin avaamiseen kykenevää sovellusta ei löydy.</string>
+    <string name="drawer_explanation">Welcome!\n\nLong press on the feeds to see options ▼</string>
+    <string name="drawer_fetch_error_explanation">Some of your feeds did not refresh correctly ▼</string>
+    <string name="error">Virhe</string>
+    <string name="error_external_storage_not_available">Ulkoinen tallenusväline (esim. SD-kortti) ei ole saatavilla.
+    </string>
+    <string name="error_feed_export">Vienti epäonnistui. Varmista, että SD-kortille voidaan kirjoittaa.
+    </string>
+    <string name="favorites">Favorites</string>
+    <string name="feed_added">Feed added to the list</string>
+    <string name="feed_link">Feed link</string>
+    <string name="feed_name">Feed name</string>
+    <string name="feed_search">Hae syötteitä</string>
+    <string name="feed_search_hint">Enter feed link or keyword</string>
+    <string name="feeds">Syötteet</string>
+    <string name="flym_feeds">Flym-syötteet</string>
+    <string name="get_full_text">Hae koko teksti</string>
+    <string name="google_news_business">Talous</string>
+    <string name="google_news_entertainment">Viihde</string>
+    <string name="google_news_health">Terveys</string>
+    <string name="google_news_science_technology">Tiede &amp; Tekniikka</string>
+    <string name="google_news_sports">Urheilu</string>
+    <string name="google_news_top_stories">Etusivun uutiset</string>
+    <string name="google_news_world">Ulkomaat</string>
+    <string name="marked_as_read">Merkitty luetuksi</string>
+    <string name="menu_add_group">Lisää ryhmä</string>
+    <string name="menu_all_read">Merkitse kaikki luetuiksi</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_disable_full_text_retrieval">Disable full text retrieval</string>
+    <string name="menu_edit_feed">Muokkaa syötettä</string>
+    <string name="menu_enable_full_text_retrieval">Enable full text retrieval</string>
+    <string name="menu_export">Vie OPML-tiedosto</string>
+    <string name="menu_import">Tuo OPML-tiedosto</string>
+    <string name="menu_mark_as_unread">Merkitse lukemattomaksi</string>
+    <string name="menu_reorder">Reorder feeds</string>
+    <string name="menu_settings">Asetukset</string>
+    <string name="menu_share">Jaa</string>
+    <string name="menu_star">Merkitse tähdellä</string>
+    <string name="menu_unstar">Poista tähti</string>
+    <string name="message_exported_to">Viety tiedostoon %s</string>
+    <string name="network_error">Ei verkkoyhteyttä</string>
+    <string name="no_entries">No items\nPlease pull down to refresh</string>
+    <string name="open_in_browser">Avaa selaimessa</string>
+    <string name="original_text">Näytä alkuperäinen teksti</string>
+    <string name="question_delete_feed">Haluatko poistaa tämän syötteen?</string>
+    <string name="question_delete_group">Haluatko poistaa tämän ryhmän ja kaikki siinä olevat syötteet?
+    </string>
+    <string msgid="146198913615257606" name="search_menu_title">"Haku"</string>
+    <string name="settings_category_content_presentation">Sisällön esittäminen</string>
+    <string name="settings_category_refresh">Automaattinen päivitys</string>
+    <string name="settings_display_images">Näytä kuvat</string>
+    <string name="settings_display_images_description">Näytä kuvat artikkeleissa</string>
+    <string name="settings_font_size">Kirjasintyypin koko</string>
+    <string name="settings_keep_time">Artikkelien säilyttämisaika</string>
+    <string name="settings_preload_image_mode">Esilataa kuvat</string>
+    <string name="settings_refresh_enabled">Päivitä automaattisesti</string>
+    <string name="settings_refresh_enabled_description">Päivitä kaikki syötteet automaattisesti
+    </string>
+    <string name="settings_refresh_interval">Päivitysväli</string>
+    <string name="settings_refresh_wifi_only">Vain Wi-Fi -yhteyden kautta</string>
+    <string name="settings_refresh_wifi_only_description">Syötteet päivitetään automaattisesti ainoastaan kun Wi-Fi -yhteys on käytettävissä
+    </string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_request_explanation">Voidaksesi tuoda tai viedä tiedoston, sinun täytyy antaa sovellukselle käyttölupa tallennusmuistin sisältöön.</string>
+    <string name="to_group_above">Ylemmälle tasolle</string>
+    <string name="to_group_into">Ryhmään</string>
+    <string name="to_group_message">Voit asettaa tämän syötteen ryhmän sisään tai tasoa ylemmäs. Mitä haluat tehdä?
+    </string>
+    <string name="to_group_title">Syötteen siirtäminen</string>
+    <string name="undo">Peru</string>
+    <string name="unreads">Unreads</string>
+    <string name="welcome_title">Tervetuloa Flym:iin. Haluaisitko lisätä syötteen?</string>
+    <string name="welcome_title_with_opml_import">Would you like to import previous Flym feeds?</string>
+</resources>

@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="settings_font_sizes">
+        <item>-2</item>
+        <item>-1</item>
+        <item>표준 크기</item>
+        <item>+1</item>
+        <item>+2</item>
+        <item>+3</item>
+    </string-array>
+    <string-array name="settings_intervals">
+        <item>5분</item>
+        <item>15분</item>
+        <item>30분</item>
+        <item>1시간</item>
+        <item>2시간</item>
+        <item>6시간</item>
+        <item>12시간</item>
+        <item>1일</item>
+    </string-array>
+    <string-array name="settings_keep_times">
+        <item>1일</item>
+        <item>2일</item>
+        <item>4일</item>
+        <item>1주</item>
+        <item>2주</item>
+        <item>1달</item>
+        <item>2달</item>
+        <item>3달</item>
+        <item>계속</item>
+    </string-array>
+    <string-array name="settings_preload_image_modes">
+        <item>안 함</item>
+        <item>Wi-Fi를 통해서만</item>
+        <item>언제나</item>
+    </string-array>
+    <plurals name="number_of_new_entries">
+        <item quantity="other">새 항목 %d개</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"홈 탐색"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"위로 탐색"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"옵션 더보기"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"완료"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"전체 보기"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"앱 선택"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"사용 안함"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"사용"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"검색..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"검색어 삭제"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"검색어"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"검색"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"검색어 보내기"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"음성 검색"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"공유 대상"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g>와(과) 공유"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"접기"</string>
+    <string name="about_flym">플라임 정보</string>
+    <string name="add_group_title">그룹 이름 선택</string>
+    <string name="all">All</string>
+    <string name="all_entries">All entries</string>
+    <string name="android">안드로이드</string>
+    <string name="app_name">Flym</string>
+    <string name="bitbucket">빗버켓</string>
+    <string name="cannot_find_feeds">No feeds has been found</string>
+    <string name="cant_open_link">이 링크에 대한 프로그램이 없습니다</string>
+    <string name="changelog">앱 변경내역</string>
+    <string name="donate">기부하기</string>
+    <string name="drawer_explanation">Welcome!\n\nLong press on the feeds to see options ▼</string>
+    <string name="drawer_fetch_error_explanation">Some of your feeds did not refresh correctly ▼</string>
+    <string name="dribbble">드리블</string>
+    <string name="email">이메일</string>
+    <string name="error">오류</string>
+    <string name="error_external_storage_not_available">외부 저장소(SD 카드 따위)가 없습니다.</string>
+    <string name="error_feed_export">내보내기가 실패했습니다. 쓰기 가능한 SD 카드 저장소가 마운트되어 있는지 확인하십시오.</string>
+    <string name="facebook">페이스북</string>
+    <string name="favorites">Favorites</string>
+    <string name="feed_added">Feed added to the list</string>
+    <string name="feed_link">Feed link</string>
+    <string name="feed_name">Feed name</string>
+    <string name="feed_search">피드 검색</string>
+    <string name="feed_search_hint">Enter feed link or keyword</string>
+    <string name="feedback_app">피드백 남기기</string>
+    <string name="feeds">피드</string>
+    <string name="flym_feeds">플라임 피드</string>
+    <string name="get_full_text">전체 텍스트 가져오기</string>
+    <string name="github">깃헙</string>
+    <string name="google">구글</string>
+    <string name="google_news_business">경제</string>
+    <string name="google_news_entertainment">연예</string>
+    <string name="google_news_health">건강</string>
+    <string name="google_news_science_technology">과학 &amp; 기술</string>
+    <string name="google_news_sports">스포츠</string>
+    <string name="google_news_top_stories">주요 뉴스</string>
+    <string name="google_news_world">국제</string>
+    <string name="google_play_games">게임 플레이</string>
+    <string name="google_play_store">플레이스토어</string>
+    <string name="google_plus">구글플러스</string>
+    <string name="help">도움말</string>
+    <string name="instagram">인스타그램</string>
+    <string name="introduce_app">앱 소개하기</string>
+    <string name="linkedin">링크드인</string>
+    <string name="marked_as_read">Marked as read</string>
+    <string name="menu_add_group">그룹 추가</string>
+    <string name="menu_all_read">모두 읽은 것으로 표시</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_disable_full_text_retrieval">Disable full text retrieval</string>
+    <string name="menu_edit_feed">피드 편집</string>
+    <string name="menu_enable_full_text_retrieval">Enable full text retrieval</string>
+    <string name="menu_export">OPML로 내보내기</string>
+    <string name="menu_import">OPML에서 가져오기</string>
+    <string name="menu_mark_as_unread">읽은 것으로 표시</string>
+    <string name="menu_reorder">Reorder feeds</string>
+    <string name="menu_settings">설정</string>
+    <string name="menu_share">공유</string>
+    <string name="menu_star">별표</string>
+    <string name="menu_unstar">별표 취소</string>
+    <string name="message_exported_to">%s에 내보냄</string>
+    <string name="more_apps">더 많은 앱 보기</string>
+    <string name="network_error">네트워크가 준비되지 않았습니다</string>
+    <string name="no_entries">No items\nPlease pull down to refresh</string>
+    <string name="open_in_browser">브라우저에서 보기</string>
+    <string name="original_text">원래 텍스트 가져오기</string>
+    <string name="privacy">개인정보 정책</string>
+    <string name="question_delete_feed">정말로 이 피드를 삭제하시겠습니까?</string>
+    <string name="question_delete_group">정말로 이 그룹과 이 안의 피드를 모두 삭제하시겠습니까?</string>
+    <string name="rate_five_stars">별점 남기기</string>
+    <string name="remove_ads">광고 제거</string>
+    <string msgid="146198913615257606" name="search_menu_title">"검색"</string>
+    <string name="settings_category_content_presentation">내용 표시</string>
+    <string name="settings_category_refresh">자동 새로 고침</string>
+    <string name="settings_display_images">이미지 표시</string>
+    <string name="settings_display_images_description">항목에서 이미지 표시</string>
+    <string name="settings_font_size">글자 크기</string>
+    <string name="settings_keep_time">항목을 저장할 시간</string>
+    <string name="settings_preload_image_mode">이미지 미리 읽기</string>
+    <string name="settings_refresh_enabled">자동 새로 고침 사용</string>
+    <string name="settings_refresh_enabled_description">피드 자동 새로 고침 기능을 사용</string>
+    <string name="settings_refresh_interval">새로 고침 간격</string>
+    <string name="settings_refresh_wifi_only">Wi-Fi에서만 새로 고침</string>
+    <string name="settings_refresh_wifi_only_description">Wi-Fi를 사용할 때만 자동으로 새로 고침</string>
+    <string name="share_app">앱 추천하기</string>
+    <string name="skype">스카이프</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_request_explanation">To be able to import or export the feeds from or to a file, you must allow the application to access to the storage memory.</string>
+    <string name="to_group_above">그룹 위</string>
+    <string name="to_group_into">그룹 안</string>
+    <string name="to_group_message">피드를 그룹 안에 넣을 수도 있고 위에 놓을 수도 있습니다. 어떻게 하시겠습니까?</string>
+    <string name="to_group_title">피드 옮기기 동작</string>
+    <string name="twitter">트위터</string>
+    <string name="undo">Undo</string>
+    <string name="unreads">Unreads</string>
+    <string name="update_app">업데이트 체크</string>
+    <string name="version">버전 %s</string>
+    <string name="website">웹사이트</string>
+    <string name="welcome_title">플라임 사용을 환영합니다. 피드를 추가하시겠습니까?</string>
+    <string name="welcome_title_with_opml_import">Would you like to import previous Flym feeds?</string>
+    <string name="whastapp">왓츠앱</string>
+    <string name="youtube">유튜브</string>
+</resources>

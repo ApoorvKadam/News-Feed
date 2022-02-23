@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.Tunous:SwipeActionView-1.1.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SwipeActionView-1.1.0.aar/cc5a917b048f920c803af10ab2893a20/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SwipeActionView-1.1.0.aar/cc5a917b048f920c803af10ab2893a20/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Tunous/SwipeActionView/1.1.0/295e84936846c9404aa5034e9863e2fbb74b093b/SwipeActionView-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

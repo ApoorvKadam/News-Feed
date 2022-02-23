@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="container_horizontal_padding_end">17dp</dimen>
+    <style name="AppTheme.ActionBar.Details" parent="AppTheme.ActionBar">
+        <item name="colorPrimary">@color/colorAccent</item>
+    </style>
+</resources>

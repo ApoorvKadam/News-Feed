@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="settings_font_sizes">
+        <item>-2</item>
+        <item>-1</item>
+        <item>Normal</item>
+        <item>+1</item>
+        <item>+2</item>
+        <item>+3</item>
+    </string-array>
+    <string-array name="settings_intervals">
+        <item>5 minutos</item>
+        <item>15 minutos</item>
+        <item>30 minutos</item>
+        <item>1 hora</item>
+        <item>2 horas</item>
+        <item>6 horas</item>
+        <item>12 horas</item>
+        <item>1 día</item>
+    </string-array>
+    <string-array name="settings_keep_times">
+        <item>1 día</item>
+        <item>2 días</item>
+        <item>4 días</item>
+        <item>1 semana</item>
+        <item>2 semanas</item>
+        <item>1 mes</item>
+        <item>2 meses</item>
+        <item>3 meses</item>
+        <item>Infinito</item>
+    </string-array>
+    <string-array name="settings_preload_image_modes">
+        <item>Never</item>
+        <item>Only over Wi-Fi</item>
+        <item>Always</item>
+    </string-array>
+    <plurals name="number_of_new_entries">
+        <item quantity="one">One new entry</item>
+        <item quantity="other">%d new entries</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Ir a la pantalla de inicio"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Desplazarse hacia arriba"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Más opciones"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Listo"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver todo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Seleccionar una aplicación"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESACTIVADO"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ACTIVADO"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Buscar…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Borrar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Buscar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Búsqueda por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartir con"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Compartir con <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Contraer"</string>
+    <string name="about_flym">About Flym</string>
+    <string name="add_group_title">Añadir nombre de grupo</string>
+    <string name="all">All</string>
+    <string name="all_entries">All entries</string>
+    <string name="app_name">Flym</string>
+    <string name="cannot_find_feeds">No feeds has been found</string>
+    <string name="cant_open_link">No se ha encontrado una aplicación para este enlace.</string>
+    <string name="changelog">Registro de cambios</string>
+    <string name="donate">Dona</string>
+    <string name="drawer_explanation">Welcome!\n\nLong press on the feeds to see options ▼</string>
+    <string name="drawer_fetch_error_explanation">Some of your feeds did not refresh correctly ▼</string>
+    <string name="email">Correo electrónico</string>
+    <string name="error">Error</string>
+    <string name="error_external_storage_not_available">El almacenaje externo no está disponible.
+    </string>
+    <string name="error_feed_export">No se ha podido exportar las fuentes. Compruebe los permisos en
+        la tarjeta SD.
+    </string>
+    <string name="favorites">Favorites</string>
+    <string name="feed_added">Feed added to the list</string>
+    <string name="feed_link">Feed link</string>
+    <string name="feed_name">Feed name</string>
+    <string name="feed_search">Buscar fuentes</string>
+    <string name="feed_search_hint">Enter feed link or keyword</string>
+    <string name="feedback_app">Dame tu opinión </string>
+    <string name="feeds">Fuentes</string>
+    <string name="flym_feeds">Fuentes de Flym</string>
+    <string name="get_full_text">Descargar el texto completo</string>
+    <string name="google_news_business">Business</string>
+    <string name="google_news_entertainment">Entertainment</string>
+    <string name="google_news_health">Health</string>
+    <string name="google_news_science_technology">Science &amp; Technology</string>
+    <string name="google_news_sports">Sports</string>
+    <string name="google_news_top_stories">Top Stories</string>
+    <string name="google_news_world">World</string>
+    <string name="google_play_games">Google Play Juegos</string>
+    <string name="help">Ayuda</string>
+    <string name="introduce_app">Introducir la aplicación</string>
+    <string name="marked_as_read">Marked as read</string>
+    <string name="menu_add_group">Añadir grupo</string>
+    <string name="menu_all_read">Marcar todo como leído</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_disable_full_text_retrieval">Disable full text retrieval</string>
+    <string name="menu_edit_feed">Modificar fuente</string>
+    <string name="menu_enable_full_text_retrieval">Enable full text retrieval</string>
+    <string name="menu_export">Exportar a OPML</string>
+    <string name="menu_import">Importar desde OPML</string>
+    <string name="menu_mark_as_unread">Marcar como no leído</string>
+    <string name="menu_reorder">Reorder feeds</string>
+    <string name="menu_settings">Configuración</string>
+    <string name="menu_share">Compartir</string>
+    <string name="menu_star">Destaca</string>
+    <string name="menu_unstar">No destacar</string>
+    <string name="message_exported_to">Exportar a %s</string>
+    <string name="more_apps">Mis otras aplicaciones</string>
+    <string name="network_error">No se ha configurado la red</string>
+    <string name="no_entries">No items\nPlease pull down to refresh</string>
+    <string name="open_in_browser">Ver en el navegador</string>
+    <string name="original_text">Mostrar el texto original</string>
+    <string name="privacy">Política de privacidad</string>
+    <string name="question_delete_feed">¿Seguro que quiere eliminar esta fuente?</string>
+    <string name="question_delete_group">¿Seguro que quiere eliminar este grupo de fuentes?</string>
+    <string name="rate_five_stars">Calificar esta app con 5 estrellas</string>
+    <string name="remove_ads">Eliminar anuncios</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Buscar"</string>
+    <string name="settings_category_content_presentation">Modo de presentación</string>
+    <string name="settings_category_refresh">Actualización automáticas</string>
+    <string name="settings_display_images">Display images</string>
+    <string name="settings_display_images_description">Display images in entries</string>
+    <string name="settings_font_size">Tamaño del texto</string>
+    <string name="settings_keep_time">Tiempo de retención de las entradas</string>
+    <string name="settings_preload_image_mode">Preload images</string>
+    <string name="settings_refresh_enabled">Habilitar actualizaciones automáticas</string>
+    <string name="settings_refresh_enabled_description">Activa las actualizaciones automáticas de
+        las fuentes.
+    </string>
+    <string name="settings_refresh_interval">Intervalo entre actualizaciones</string>
+    <string name="settings_refresh_wifi_only">Actualizar solo en Wi-Fi.</string>
+    <string name="settings_refresh_wifi_only_description">Solo se actualizarán las entradas cuando
+        se esté conectado a una red Wi-Fi.
+    </string>
+    <string name="share_app">Compartir app</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="storage_request_explanation">To be able to import or export the feeds from or to a file, you must allow the application to access to the storage memory.</string>
+    <string name="to_group_above">Encima del grupo</string>
+    <string name="to_group_into">Al grupo</string>
+    <string name="to_group_message">Puede mover la fuente al grupo o encima del grupo. ¿Qué desea
+        hacer?
+    </string>
+    <string name="to_group_title">Mover la fuente</string>
+    <string name="undo">Undo</string>
+    <string name="unreads">Unreads</string>
+    <string name="update_app">Actualizar esta app</string>
+    <string name="version">Versión %s </string>
+    <string name="website">Web</string>
+    <string name="welcome_title">Welcome to Flym. Would you like to add one feed?</string>
+    <string name="welcome_title_with_opml_import">Would you like to import previous Flym feeds?</string>
+</resources>

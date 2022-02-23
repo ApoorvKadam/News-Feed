@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/bibek/Desktop/Flym-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w840dp-v13/values-w840dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/bibek/Desktop/Flym-master/app/src/main/res/values-w840dp/dimens.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endColumns": "63",
+                        "endOffsets": "76"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                },
+                {
+                    "source": "/Users/bibek/Desktop/Flym-master/app/src/main/res/values-w840dp/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "17",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "159"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "119",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "261"
+                    }
+                }
+            ]
+        }
+    ]
+}

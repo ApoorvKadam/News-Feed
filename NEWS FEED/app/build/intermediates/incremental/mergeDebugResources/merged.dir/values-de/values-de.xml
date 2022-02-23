@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="settings_font_sizes">
+        <item>-2</item>
+        <item>-1</item>
+        <item>Standard</item>
+        <item>+1</item>
+        <item>+2</item>
+        <item>+3</item>
+    </string-array>
+    <string-array name="settings_intervals">
+        <item>5 Minuten</item>
+        <item>15 Minuten</item>
+        <item>30 Minuten</item>
+        <item>1 Stunde</item>
+        <item>2 Stunden</item>
+        <item>6 Stunden</item>
+        <item>12 Stunden</item>
+        <item>1 Tag</item>
+    </string-array>
+    <string-array name="settings_keep_times">
+        <item>1 Tag</item>
+        <item>2 Tage</item>
+        <item>4 Tage</item>
+        <item>1 Woche</item>
+        <item>2 Wochen</item>
+        <item>1 Monat</item>
+        <item>2 Monate</item>
+        <item>3 Monate</item>
+        <item>Für immer</item>
+    </string-array>
+    <string-array name="settings_preload_image_modes">
+        <item>Niemals</item>
+        <item>Nur über WLAN</item>
+        <item>Immer</item>
+    </string-array>
+    <plurals name="number_of_new_entries">
+        <item quantity="one">Ein neuer Eintrag</item>
+        <item quantity="other">%d neue Einträge</item>
+    </plurals>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="3300176832234831527" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="about_flym">Über Flym</string>
+    <string name="add_group_title">Gruppenname wählen</string>
+    <string name="all">Alle</string>
+    <string name="all_entries">Alle Einträge</string>
+    <string name="app_name">Flym</string>
+    <string name="cannot_find_feeds">Keine Feeds gefunden</string>
+    <string name="cant_open_link">Keine Anwendung für diesen Link gefunden</string>
+    <string name="changelog">Änderungsprotokoll</string>
+    <string name="donate">Spenden</string>
+    <string name="drawer_explanation">Willkommen!\n\nLänger auf die Feeds drücken, um die Optionen zu sehen ▼</string>
+    <string name="drawer_fetch_error_explanation">Einige deiner Feeds wurden nicht korrekt aktualisiert ▼</string>
+    <string name="error">Fehler</string>
+    <string name="error_external_storage_not_available">Der externe Speicher (z.B. SD-Karte) ist nicht verfügbar.</string>
+    <string name="error_feed_export">Der Export ist fehlgeschlagen. Stelle sicher, dass eine beschreibbare SD-Karte eingelegt ist.</string>
+    <string name="favorites">Favoriten</string>
+    <string name="feed_added">Feed zur Liste hinzugefügt</string>
+    <string name="feed_link">Feed-Link</string>
+    <string name="feed_name">Feed-Name</string>
+    <string name="feed_search">Feed-Suche</string>
+    <string name="feed_search_hint">Feed-Link oder Suchbegriff eingeben</string>
+    <string name="feedback_app">Gib mir Feedback</string>
+    <string name="feeds">Feeds</string>
+    <string name="flym_feeds">Flym-Feeds</string>
+    <string name="get_full_text">Vollen Text abrufen</string>
+    <string name="google_news_business">Wirtschaft</string>
+    <string name="google_news_entertainment">Unterhaltung</string>
+    <string name="google_news_health">Gesundheit</string>
+    <string name="google_news_science_technology">Wissenschaft &amp; Technik</string>
+    <string name="google_news_sports">Sport</string>
+    <string name="google_news_top_stories">Schlagzeilen</string>
+    <string name="google_news_world">International</string>
+    <string name="google_play_games">Play Spiele</string>
+    <string name="help">Hilfe</string>
+    <string name="introduce_app">Einführung in die App</string>
+    <string name="marked_as_read">Als gelesen markieren</string>
+    <string name="menu_add_group">Gruppe erstellen</string>
+    <string name="menu_all_read">Alle als gelesen markieren</string>
+    <string name="menu_delete">Löschen</string>
+    <string name="menu_disable_full_text_retrieval">Volltextsuche deaktivieren</string>
+    <string name="menu_edit_feed">Feed bearbeiten</string>
+    <string name="menu_enable_full_text_retrieval">Volltextsuche aktivieren</string>
+    <string name="menu_export">Nach OPML exportieren</string>
+    <string name="menu_import">Aus OPML importieren</string>
+    <string name="menu_mark_as_unread">Als ungelesen markieren</string>
+    <string name="menu_reorder">Feeds neu ordnen</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_share">Teilen</string>
+    <string name="menu_star">Favorisieren</string>
+    <string name="menu_unstar">Entfavorisieren</string>
+    <string name="message_exported_to">Nach %s exportiert.</string>
+    <string name="more_apps">Mehr Apps von mir</string>
+    <string name="network_error">Kein Internet</string>
+    <string name="no_entries">Keine Artikel\nZum Aktualisieren bitte nach unten ziehen</string>
+    <string name="open_in_browser">Im Browser ansehen</string>
+    <string name="original_text">Ursprünglichen Text anzeigen</string>
+    <string name="privacy">Datenschutz-Bestimmungen</string>
+    <string name="question_delete_feed">Willst du diesen Feed wirklich löschen?</string>
+    <string name="question_delete_group">Willst du diese Gruppe mit allen Feeds wirklich löschen?</string>
+    <string name="rate_five_stars">Bewerte die App mit 5 Sternen</string>
+    <string name="remove_ads">Werbung entfernen</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="settings_category_content_presentation">Anzeige der Inhalte</string>
+    <string name="settings_category_refresh">Automatisches Aktualisieren</string>
+    <string name="settings_display_images">Bilder anzeigen</string>
+    <string name="settings_display_images_description">Bilder in den Einträgen anzeigen</string>
+    <string name="settings_font_size">Textgröße</string>
+    <string name="settings_keep_time">Zeit nach der Einträge gelöscht werden</string>
+    <string name="settings_preload_image_mode">Bilder vorab laden</string>
+    <string name="settings_refresh_enabled">Automatisches Aktualisieren</string>
+    <string name="settings_refresh_enabled_description">Aktiviert das automatische Aktualisieren aller Feeds</string>
+    <string name="settings_refresh_interval">Aktualisierungsintervall</string>
+    <string name="settings_refresh_wifi_only">Nur über WLAN aktualisieren</string>
+    <string name="settings_refresh_wifi_only_description">Die automatische Aktualisierung wird nur bei aktiver WLAN-Verbindung durchgeführt</string>
+    <string name="share_app">Teile die App</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="storage_request_explanation">Um Feeds aus/in eine(r) Datei zu importieren/exportieren, muss das Programm die Berechtigung haben auf den Speicher zuzugreifen.</string>
+    <string name="to_group_above">Über die Gruppe</string>
+    <string name="to_group_into">In die Gruppe</string>
+    <string name="to_group_message">Du kannst den Feed entweder in oder über dieser Gruppe positionieren. Was willst du tun?</string>
+    <string name="to_group_title">Feed verschieben</string>
+    <string name="undo">Rückgängig</string>
+    <string name="unreads">Ungelesen</string>
+    <string name="update_app">Aktualisiere die App</string>
+    <string name="website">Webseite</string>
+    <string name="welcome_title">Willkommen bei Flym. Willst du einen Feed hinzufügen?</string>
+    <string name="welcome_title_with_opml_import">Möchtest du frühere Flym-Feeds importieren?</string>
+</resources>

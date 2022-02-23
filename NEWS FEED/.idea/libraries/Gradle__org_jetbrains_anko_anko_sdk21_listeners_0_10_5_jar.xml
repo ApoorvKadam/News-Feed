@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.anko:anko-sdk21-listeners:0.10.5@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sdk21-listeners/0.10.5/78fa02d16e8e80cf48e7b162c8b1c632e01e055d/anko-sdk21-listeners-0.10.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sdk21-listeners/0.10.5/9ed6129ddcefcea2827c2474cc9d3f03ddf0936d/anko-sdk21-listeners-0.10.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
