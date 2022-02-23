@@ -1,0 +1,2 @@
+# News-Feed
+The project deals with the user who wants to read news from the mobile application. Here the user can select the categories of news they are looking to read. When you are done selecting the categories, then you can simply refresh the page to get news on your mobile application. Also, you can either export or import the news to your local storage media. This application is fully responsive and has a good-looking user interface. The users will find this application much interesting for reading the news articles.
